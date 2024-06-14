@@ -1,0 +1,14 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./out-tsc/app",
+    "types": []
+  },
+  "files": [
+    "src/main.ts",
+    "src/app/hello-by-angular/hello-by-angular.component.ts"
+  ],
+  "include": [
+    "src/**/*.d.ts"
+  ]
+}
