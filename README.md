@@ -36,8 +36,8 @@ Make sure you have the following installed on your machine:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/darge98/angular-module-federation-vertical-demo.git
+   cd angular-module-federation-vertical-demo
    ```
 
 2. Install dependencies for both projects:
